@@ -1,7 +1,9 @@
 # 夏の思い出
 
 * かきくけ
-* ゲーム<br>-Apex<br>-マイクラ<br>-広告で出てくるクソゲー<br>
+* ゲーム
+-Apex<br>-マイクラ<br>-広告で出てくるクソゲー<br>
+* 麻雀
 * 事故った
 <img src="https://raw.githubusercontent.com/hasegawow/20230925_summer_memmories/main/IMG_8637 2.png">
 
